@@ -8,6 +8,7 @@
 const BrayonMatheus = {
   nome: "Brayon matheus",
   Area: "DESENVOLVIMENTO WEB",
+  Estudante_em: "Puc Minas",
   Linguagens: ["JavaScript"],
 };
 ```
