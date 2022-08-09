@@ -36,11 +36,9 @@ const BrayonMatheus = {
 <div align="center">
   <a href="https://github.com/tbrayon">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=tbrayon&theme=dracula&show_icons=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamDosSantos&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbrayon&layout=compact&langs_count=7&theme=dracula"/>
     </div>
-
-[linkedin]:www.linkedin.com/in/brayon-duarte
 
 # ✅ Social Media!
 
-<a  href="www.linkedin.com/in/brayon-duarte"</a>
+<a href="https://www.linkedin.com/in/brayon-duarte-4b0315245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
