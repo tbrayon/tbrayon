@@ -39,7 +39,7 @@ const BrayonMatheus = {
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamDosSantos&layout=compact&langs_count=7&theme=dracula"/>
     </div>
 
-[linkedin]:https://www.linkedin.com/in/brayon-duarte-4b0315245/
+[linkedin]:www.linkedin.com/in/brayon-duarte
 
 # ✅ Social Media!
 
