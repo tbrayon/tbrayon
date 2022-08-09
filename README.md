@@ -43,4 +43,4 @@ const BrayonMatheus = {
 
 # ✅ Social Media!
 
-<a  href="https://www.linkedin.com/in/leonardo-lourenco-0594b1139/"><img align="left" alt="Linkedin" title="Youtube" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a  href="www.linkedin.com/in/brayon-duarte"</a>
